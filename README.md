@@ -6,3 +6,4 @@
 * Now let's get a notification!
 * After fixing workflow
 * Trying with secret
+* After adding to GitHub side
